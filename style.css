@@ -1,0 +1,33 @@
+body {
+    background-color: blue;
+}
+h1 {
+    text-align: center;
+    color: white;
+}
+#section-one {
+    background-color: white;
+    box-shadow: 5px 5px 10px black;
+    padding: 15px;
+    border-radius: 10px;
+    width: 500px;
+    margin: auto;
+}
+#msg {
+    text-align: center;
+    font-size: 20px;
+}
+#foto {
+    text-align: center;
+    padding: 30px;
+}
+#imagem {
+    width: 200px;
+    height: 200px;
+}
+footer {
+    margin-top: 10px;
+    text-align: center;
+    font-style: italic;
+    color: white;
+}
